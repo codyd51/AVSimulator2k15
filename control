@@ -3,7 +3,7 @@ Name: AVSimulator2k15
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: It's just like a real antivirus!
 Maintainer: Phillip Tennen
 Author: Phillip Tennen
 Section: Tweaks

@@ -1,7 +1,7 @@
 AVSimulator2k15
 ----------------
 
-**This tweak is not an antivirus**
+**This tweak is not an antivirus.**
 
 This tweak merely mimics the _experience_ of having an antivirus by constantly telling the user their antivirus is out of date.
 
